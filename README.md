@@ -40,7 +40,7 @@ The classic computer vision problem identify waldo with background noise. Comput
     ```    ');                                                                                                                                                        ```
     ```                                                                                                                                                               ```
     ```                                                                                                                                                               ```
-    ```  WANT                                                                                                                                                         ```
+    ```  WANT  (Also on github)                                                                                                                                    ```
     ```  ====                                                                                                                                                         ```
     ```                                                                                                                                                               ```
     ```     https://www.dropbox.com/s/gnx0lemhugchzub/Found_DepartmentStote.png?dl=0                                                                                  ```
